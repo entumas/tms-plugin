@@ -34,8 +34,8 @@ if ( ! function_exists( 'tms_hide_menu' ) ) :
 			remove_menu_page( 'tools.php' );							// tools
 
 			add_menu_page(
-				__( 'Menus', 'tms' ),
-				__( 'Menus', 'tms' ),
+				__( 'Menus', 'tms-plugin' ),
+				__( 'Menus', 'tms-plugin' ),
 				'editor',
 				'nav-menus.php',
 				'',

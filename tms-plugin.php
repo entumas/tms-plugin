@@ -4,7 +4,7 @@
 	Plugin URI:   https://tumasmuntane.com
 	Description:  Add to the WordPress website extra features like custom post types and other functionalities.
 	Version:      1.0.0
-	Text Domain:  tms
+	Text Domain:  tms-plugin
 	Domain Path:  /languages
 	Author:       Tumàs Muntané
 	Author URI:   https://tumasmuntane.com
@@ -24,7 +24,7 @@ if ( ! function_exists( 'tms_load_plugin_textdomain' ) ) :
 
 	function tms_load_plugin_textdomain() {
 
-		load_plugin_textdomain( 'tms', false, dirname( plugin_basename( __FILE__ ) ) . '/languages/' );
+		load_plugin_textdomain( 'tms-plugin', false, dirname( plugin_basename( __FILE__ ) ) . '/languages/' );
 
 	}
 

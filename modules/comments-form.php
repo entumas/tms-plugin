@@ -22,7 +22,7 @@ if ( ! function_exists( 'tms_privacy_comment_checkbox' ) ) :
 			$output .= '<input id="wp_comment_privacy_consent" name="wp_comment_privacy_consent" type="checkbox" value="privacy-accept" aria-req="true" required>';
 
 			$output .= '<label for="wp_comment_privacy_consent">' . sprintf(
-				_x( 'Accept the <a href="%s" target="blank">privacy policy</a>', 'Privacy policy notice', 'tms' ),
+				_x( 'Accept the <a href="%s" target="blank">privacy policy</a>', 'Privacy policy notice', 'tms-plugin' ),
 				get_privacy_policy_url()
 			) . '</label>';
 

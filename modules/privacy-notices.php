@@ -18,7 +18,7 @@ if ( ! function_exists( 'tms_get_privacynotices' ) ) :
 		$output = '<ul id="privacy-notice" class="privacy-notice collapsible' . $class . '">';
 			$output .= '<li>';
 
-				$output .= '<p class="collapsible-header"><span class="chevron">▷</span> ' . __( 'Before submitting your inquiry, take a look at the basic information on data protection here.', 'tms' ) . '</p>';
+				$output .= '<p class="collapsible-header"><span class="chevron">▷</span> ' . __( 'Before submitting your inquiry, take a look at the basic information on data protection here.', 'tms-plugin' ) . '</p>';
 
 				$output .= '<div class="collapsible-body">';
 

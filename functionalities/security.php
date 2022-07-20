@@ -27,7 +27,7 @@ function tms_block_proxy_visits () {
 
 		if ( @fsockopen( $_SERVER['REMOTE_ADDR'], 80, $errstr, $errno, 1 ) ) :
 
-			die( __( 'Proxy access is not allowed', 'tms' ) );
+			die( __( 'Proxy access is not allowed', 'tms-plugin' ) );
 
 		endif;
 
