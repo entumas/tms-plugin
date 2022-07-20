@@ -1,0 +1,256 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TMS plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-03-31 09:37+0000\n"
+"PO-Revision-Date: 2022-07-04 18:35+0000\n"
+"Last-Translator: Bego Gassó\n"
+"Language-Team: Español\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0\n"
+"X-Domain: tms"
+
+#: apis/talent-lms.php:247
+msgid ""
+"A complete offering of design technologies courses, recorded by TMS "
+"specialits for everyone to use."
+msgstr ""
+"Una completa oferta de cursos online sobre tecnologías de diseño preparadas "
+"por nuestro equipo de especialistas."
+
+#: functionalities/js-translates.php:23
+msgid "Accept the privacy policy"
+msgstr "Acepta la política de privacidad"
+
+#. Description of the plugin
+#| msgid ""
+#| "Add to the WordPress website extra features like custom post types nd "
+#| "other functionalities."
+msgid ""
+"Add to the WordPress website extra features like custom post types and other "
+"functionalities."
+msgstr ""
+"Agrega al sitio web de WordPress características adicionales como tipos de "
+"publicaciones personalizadas y otras funcionalidades."
+
+#: modules/privacy-notices.php:21
+msgid ""
+"Before submitting your inquiry, take a look at the basic information on data "
+"protection here."
+msgstr ""
+"Antes de enviar tu consulta, échale un vistazo a la información básica sobre "
+"protección de datos aquí."
+
+#: post-types/cases.php:17 post-types/cases.php:23
+msgid "Case"
+msgstr "Caso"
+
+#: post-types/cases.php:18 post-types/cases.php:22
+msgid "Cases"
+msgstr "Casos"
+
+#: post-types/cases.php:24
+msgid "Cases archive"
+msgstr "Archivo de Casos"
+
+#: post-types/landings.php:59
+msgid "Categories"
+msgstr "Categorías"
+
+#: functionalities/js-translates.php:18
+msgid "Comment is too short"
+msgstr "El comentario es demasiado corto."
+
+#: post-types/dossier-one.php:22 post-types/dossier-one.php:23
+msgid "D1 Records"
+msgstr "D1 Records"
+
+#: post-types/dossier-one.php:17
+msgid "Dossier1"
+msgstr "Dossier1"
+
+#: post-types/dossier-one.php:24
+msgid "Dossier1 Records archive"
+msgstr "Archivo de Dossier1 Records"
+
+#: functionalities/js-translates.php:17
+msgid "Enter a comment"
+msgstr "Introduce un comentario"
+
+#: functionalities/js-translates.php:21
+msgid "Enter a valid email address"
+msgstr "Introduce una dirección de correo electrónico válida"
+
+#: functionalities/js-translates.php:20
+msgid "Enter your email"
+msgstr "Introduce tu correo electrónico"
+
+#: functionalities/js-translates.php:19
+msgid "Enter your name"
+msgstr "Introduce tu nombre"
+
+#: post-types/google-docs.php:17 post-types/google-docs.php:23
+msgid "GDocs"
+msgstr "GDocs"
+
+#: admin/tutorials.php:134
+msgid "Go to tutorials"
+msgstr "Ir a tutoriales"
+
+#: post-types/google-docs.php:22 post-types/google-docs.php:24
+msgid "Google Docs"
+msgstr "Google Docs"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://tumasmuntane.com"
+msgstr "https://tumasmuntane.com"
+
+#: post-types/landings.php:17 post-types/landings.php:23
+msgid "Landing"
+msgstr "Landing"
+
+#: post-types/landings.php:18 post-types/landings.php:22
+msgid "Landings"
+msgstr "Landings"
+
+#: post-types/landings.php:24
+msgid "Landings archive"
+msgstr "Archivo de Landings"
+
+#: admin/capabilities-editors.php:37 admin/capabilities-editors.php:38
+msgid "Menus"
+msgstr "Menús"
+
+#. Name of the plugin
+msgid "TMS plugin"
+msgstr "TMS plugin"
+
+#: admin/options-page.php:12 admin/options-page.php:13
+msgid "TMS options"
+msgstr "Opciones TMS"
+
+#: post-types/node.php:17 post-types/node.php:23
+msgid "Node"
+msgstr "Node"
+
+#: post-types/node.php:22
+msgid "Nodes"
+msgstr "Nodes"
+
+#: post-types/node.php:24
+msgid "Nodes archive"
+msgstr "Archivo de Nodes"
+
+#: apis/talent-lms.php:216 apis/talent-lms.php:222
+msgid "Online Course"
+msgstr "Curso Online"
+
+#: apis/talent-lms.php:226
+msgid "Online Courses Catalog"
+msgstr "Catálogo de Cursos Online"
+
+#: post-types/cases.php:20
+msgctxt "Post Type General Name"
+msgid "Cases"
+msgstr "Casos"
+
+#: post-types/dossier-one.php:20
+msgctxt "Post Type General Name"
+msgid "Dossier1 Records"
+msgstr "Dossier1 Records"
+
+#: post-types/google-docs.php:20
+msgctxt "Post Type General Name"
+msgid "Google Docs"
+msgstr "Google Docs"
+
+#: post-types/landings.php:20
+msgctxt "Post Type General Name"
+msgid "Landings"
+msgstr "Landings"
+
+#: post-types/node.php:20
+msgctxt "Post Type General Name"
+msgid "Nodes & Macros"
+msgstr "Nodes & Macros"
+
+#: post-types/cases.php:21
+msgctxt "Post Type Singular Name"
+msgid "Case"
+msgstr "Caso"
+
+#: post-types/dossier-one.php:21
+msgctxt "Post Type Singular Name"
+msgid "Dossier1"
+msgstr "Dossier1"
+
+#: post-types/google-docs.php:21
+msgctxt "Post Type Singular Name"
+msgid "Google Doc"
+msgstr "Google Doc"
+
+#: post-types/landings.php:21
+msgctxt "Post Type Singular Name"
+msgid "Landing"
+msgstr "Landing"
+
+#: post-types/node.php:21
+msgctxt "Post Type Singular Name"
+msgid "Node"
+msgstr "Node"
+
+#: modules/comments-form.php:25
+#, php-format
+msgctxt "Privacy policy notice"
+msgid "Accept the <a href=\"%s\" target=\"blank\">privacy policy</a>"
+msgstr "Acepta la <a href=\"%s\" target=\"blank\">política de privacidad</a>"
+
+#: functionalities/security.php:30
+msgid "Proxy access is not allowed"
+msgstr "No se permite el acceso por proxy"
+
+#: post-types/dossier-one.php:18
+msgid "Stores Dossier1 Records"
+msgstr "Tiendas de Dossier1 Records"
+
+#: post-types/google-docs.php:18
+msgid "Stores Google Docs"
+msgstr "Tiendas de Google Docs"
+
+#: post-types/node.php:18
+msgid "Stores Nodes"
+msgstr "Tiendas de Nodes"
+
+#: post-types/landings.php:57
+msgctxt "Taxonomy General Name"
+msgid "Landing categories"
+msgstr "Categorías de Landing"
+
+#: post-types/landings.php:58
+msgctxt "Taxonomy Singular Name"
+msgid "Landing category"
+msgstr "Categoría de Landing"
+
+#: functionalities/js-translates.php:22
+msgid "This isn't a URL"
+msgstr "Esto no es una URL"
+
+#. Author of the plugin
+msgid "Tumàs Muntané"
+msgstr "Tumàs Muntané"
+
+#. $page_title
+#: admin/tutorials.php:77 admin/tutorials.php:78 admin/tutorials.php:109
+#: admin/tutorials.php:142
+msgid "Tutorials"
+msgstr "Tutoriales"
+
+#: admin/tutorials.php:12
+msgid "You don't have enough permissions to access this page."
+msgstr "No tienes suficientes permisos para acceder a esta página."
