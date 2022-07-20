@@ -1,6 +1,6 @@
 <?php
 /**
- * TMS | Modules -> Comments form
+ * TMS plugin | Modules -> Comments form
  * @author Tumàs Muntané
  *
  */

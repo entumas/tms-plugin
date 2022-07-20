@@ -1,6 +1,6 @@
 <?php
 /**
- * TMS | Modules -> Privacy notices
+ * TMS plugin | Modules -> Privacy notices
  * @author Tumàs Muntané
  *
  */

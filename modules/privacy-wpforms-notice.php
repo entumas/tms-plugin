@@ -1,6 +1,6 @@
 <?php
 /**
- * TMS | Modules -> Privacy WPforms notice
+ * TMS plugin | Modules -> Privacy WPforms notice
  * @author Tumàs Muntané
  *
  */
